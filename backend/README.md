@@ -3,14 +3,14 @@ Find Medicine Fast & Hassle Free
 
 ## Requirements
 
-For development, you will only need Composer installed in your environnement.
+For development, you will only need Composer installed in your environment.
 
 ## Install
 
-    $ git clone https://github.com/YOUR_USERNAME/PROJECT_TITLE
+    $ git clone https://github.com/mkdrmash/pharmafast.git
     $ cd backend
 
-## Install all the dependencies using composer
+## Install all the dependencies using the composer
 
     $ composer install
 
@@ -22,7 +22,7 @@ For development, you will only need Composer installed in your environnement.
 
     $ php artisan serve --port 8000
 
-## Running the websocket
+## Running the WebSocket
 
     $ php artisan websockets:serve --port 6001
 
