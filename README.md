@@ -22,6 +22,11 @@ Starting the project
 - Github: [@mkdrmash](https://github.com/mkdrmash)
 
 ---
+## Video Demo
+#### YouTube
+[![PharmaFast Web App Youtube Demo Video](https://i9.ytimg.com/vi/XW1_RCdNEzU/mqdefault.jpg?v=64a7d06e&sqp=CPy4_b0G&rs=AOn4CLAycfVPtO2aQVz8v5Ln13Gy8Voq2g)](https://youtu.be/XW1_RCdNEzU)
+
+---
 ## Screenshots
 ##### Login Page
 <img src="./images/login-page-ui.png" height="300">
